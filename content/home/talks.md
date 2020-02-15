@@ -67,3 +67,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+# Upcoming talks and events:
+
+### *Open to the public: March 24, 2020
+The Expert Is In: <u>Crustacean Diversity</u>. Ocean Hall, Smithsonian National Museum of Natural History. 
+
+### March 31, 2020
+Art of Biology. Outreach for elementary school students. Biology Department, George Washington University.
+
+### April 14, 2020
+<u>Surprising incongruity in crustacean phylogenomic analyses</u>. Department of Invertebrate Zoology No-Bones Seminar Series. Smithsonian National Museum of Natural History 
+
+
