@@ -83,6 +83,6 @@ user_groups:
 - Visitors
 ---
 
-Jimmy Bernot is an evolutionary biologist at George Washington University and a Research Associate at the Smithsonian National Museum of Natural History. His research interests include crustacean phylogenetics, copepod taxonomy and systematics, parasite evolution, and computational biology. He is working to resolve the crustacean tree of life and understand the processes that have resulted in spectacular morphological diversity of modern crustaceans, with a particular focus on parasitic copepods.
+Jimmy Bernot is an evolutionary biologist at George Washington University and a Research Associate at the Smithsonian National Museum of Natural History. His research interests include crustacean phylogenetics, copepod taxonomy and systematics, parasite evolution, and computational biology. He is working to resolve the crustacean tree of life and understand the processes that have resulted in the spectacular morphological diversity of modern crustaceans, with a particular focus on parasitic copepods.
 
 He is also passionate about science communication, public engagement, education, and outreach. He regularly participates in outreach events in Washington DC, especially at the Smithsonian National Museum of Natural History. See information below for upcoming events and follow him on Twitter [@JP_Bernot](https://twitter.com/JP_Bernot)

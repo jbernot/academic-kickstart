@@ -62,7 +62,7 @@ Took photographs for Smithsonian Insider article: <u>In face of mass extinctions
 
 #### 2015
 
-Prepared specimens and worked with a photographer to design an exhibit on tapeworms in the Connecticut State Natural History Museum
+Prepared specimens and worked with a photographer to design an exhibit on tapeworms in the Connecticut State Natural History Museum. https://www.flickr.com/photos/107963674@N07/albums/72157662181220376
 
 #### 2014
 
