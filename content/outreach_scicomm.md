@@ -14,8 +14,6 @@ header:
   image: ""
 ---
 
-link to image
-
 ### *Open to the public: March 24, 2020
 The Expert Is In: <u>Crustacean Diversity</u>. Ocean Hall, Smithsonian National Museum of Natural History. 
 
