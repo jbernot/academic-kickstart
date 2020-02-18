@@ -23,15 +23,15 @@
   url = "outreach_scicomm"
   weight = 30
 
+#[[main]]
+#  name = "Upcoming Talks"
+#  url = "#talks"
+#  weight = 40
+
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
-
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
 
 #[[main]]
 #  name = "Posts"

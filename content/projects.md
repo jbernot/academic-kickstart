@@ -1,7 +1,7 @@
 ---
 title: Projects
-summary: Research Projects by James Jimmy Bernot
-date: "2020-02-18T00:00:00Z"
+summary: Research projects by James Jimmy Bernot
+date: "2020-02-14T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -20,7 +20,7 @@ Crustaceans are a group of arthropods that includes familiar animals like crabs,
  
 ### Copepod Diversity
 
-Copepods are a group of small aquatic crustaceans containing 11,000 species that are likely the most abundant animals in the ocean, yet few people have heard of these creatures. While most copepods are about the size and shape of a grain of rice, some are as small as 0.2 mm and the giant parasite <i>Panella balaenoptera</i> be over a foot long! Their generally small size belies their essential role in ecosystems: they are ubiquitous in aquatic environments from mountain streams to all depths of the ocean and are even abundant in canopy mosses and wet soil. Most ocean animals are directly or indirectly dependent on copepods as a food source. In addition, half of all copepods (about 6,000 species) are parasites of other animals. I am particularly interested in parasitic copepods because they are a powerful system to study parasite evolution since they have evolved to be parasitic multiple times, parasitize a huge diversity of hosts (13 different phyla), and exhibit extreme morphological variation. I am working to understand how parasitic copepods have colonized so many different hosts and to understand the processes have produced their spectacular morphological variation. I use microscopy to identify copepods, describe new species, and document their morphology, and next-generation sequencing (NGS) to understand how copepods are related to each other and how they have diversified.
+Copepods are a group of small aquatic crustaceans containing 11,000 species that are likely the most abundant animals in the ocean. Most copepods are about the size and shape of a grain of rice, yet their small size belies their essential role in ecosystems. They are ubiquitous in aquatic environments from mountain streams to all depths of the ocean and are even abundant in canopy mosses and wet soil. Most ocean animals are directly or indirectly dependent on copepods as a food source. In addition, about half of all copepods (6,000 species) are parasites of other animals. I am particularly interested in parasitic copepods. I use microscopy to identify copepods, describe new species, and document their morphology, and next-generation sequencing (NGS) to understand how copepods are related to each other and how they have diversified.
 
 ### Tapeworm Taxonomy and Systematics
 
