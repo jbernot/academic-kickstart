@@ -14,6 +14,8 @@ header:
   image: ""
 ---
 
+<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo2.jpg?raw=true">
+
 ### *Open to the public: March 24, 2020
 The Expert Is In: <u>Crustacean Diversity</u>. Ocean Hall, Smithsonian National Museum of Natural History. 
 
@@ -44,6 +46,8 @@ Panel member for GWU undergraduate Q&A on graduate school and research experienc
 <u>Computational Biology</u>. Discussed research in the Computational Biology Institute in Introduction to Medicine, a college-level course for high school students. George Washington University. July 3, 2018.
 
 Crustacean scientist, Ocean Hall Department of Invertebrate Zoology public outreach. Crustacean specimen displays and Q&A. Smithsonian National Museum of Natural History. April 5, 2018.
+
+<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo4.jpg?raw=true">
 
 #### 2017
 

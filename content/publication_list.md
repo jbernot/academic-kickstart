@@ -16,7 +16,7 @@ header:
 
 ### In Press and 2020    
 
-Boxshall, G. A., <b>Bernot, J. P.</b>, Barton, D. P., Diggles, B. K., Yong, R. Q.-Y., Atkinson-Coyle, T., Hutson, K. S. (in press). <u>Parasitic copepods of the family Lernanthropidae Kabata, 1979 (Copepoda: Siphonostomatoida) recorded from Australian fishes with descriptions of seven new species</u>. <i>Zootaxa</i> 99 pages. 
+Boxshall, G. A., <b>Bernot, J. P.</b>, Barton, D. P., Diggles, B. K., Yong, R. Q.-Y., Atkinson-Coyle, T., Hutson, K. S. (2020). <u>Parasitic copepods of the family Lernanthropidae Kabata, 1979 (Copepoda: Siphonostomatoida) from Australian fishes with descriptions of seven new species</u>. <i>Zootaxa</i>. https://doi.org/10.11646/zootaxa.4736.1.1
 
 Fujiogi, M., Camargo Jr., C. A., <b>Bernot, J. P.</b>, Freishtat, R. J., Harmom, B., Mansbach, J. Castro-Nallar, E., Perez-Losada, E., Hasegawa, K. (in press). <u>In infants with severe bronchiolitis: dual-transcriptomic profiling of nasopharyngeal microbiome and host response</u>. <i>Pediatric Research</i>. Preprint: https://www.nature.com/articles/s41390-019-0742-8
 

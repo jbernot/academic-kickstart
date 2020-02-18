@@ -1,0 +1,31 @@
+---
+title: Projects
+summary: Research Projects by James Jimmy Bernot
+date: "2020-02-18T00:00:00Z"
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
+
+### Crustacean Phylogenomics
+
+Crustaceans are a group of arthropods that includes familiar animals like crabs, shrimp, and lobsters, as well as thousands of other species with extremely varied ways of life, including sessile, shell-incased barnacles, swimming centipede-like remipedes, giant deep-sea isopods, and many others. For centuries scientists have debated how these various animals are related to one another, and this still remains a mystery today. By using large genomic and transcriptomic datasets, I hope to build a better picture of the crustacean tree of life.
+ 
+### Copepod Diversity
+
+Copepods are a group of small aquatic crustaceans containing 11,000 species that are likely the most abundant animals in the ocean, yet few people have heard of these creatures. While most copepods are about the size and shape of a grain of rice, some are as small as 0.2 mm and the giant parasite <i>Panella balaenoptera</i> be over a foot long! Their generally small size belies their essential role in ecosystems: they are ubiquitous in aquatic environments from mountain streams to all depths of the ocean and are even abundant in canopy mosses and wet soil. Most ocean animals are directly or indirectly dependent on copepods as a food source. In addition, half of all copepods (about 6,000 species) are parasites of other animals. I am particularly interested in parasitic copepods because they are a powerful system to study parasite evolution since they have evolved to be parasitic multiple times, parasitize a huge diversity of hosts (13 different phyla), and exhibit extreme morphological variation. I am working to understand how parasitic copepods have colonized so many different hosts and to understand the processes have produced their spectacular morphological variation. I use microscopy to identify copepods, describe new species, and document their morphology, and next-generation sequencing (NGS) to understand how copepods are related to each other and how they have diversified.
+
+### Tapeworm Taxonomy and Systematics
+
+Tapeworms are parasites that live in the intestines of vertebrates. They lack all elements of a digestive tract, instead they rely on their host for nutrients, which tapeworms absorb through the surfaces of their body. I have described 5 species of tapeworms from sharks and [documented a novel attachment mechanism](http://doi.org/10.7717/peerj.7264) in a genus of shark tapeworms. While most tapeworms attach with their head, a specialized attachment organ called a scolex, species of <i>Calliobothrium</i> use, to a much greater extent, spikey structures along the length of their body to attach to the villi on the gut of their hosts.
+
+### Computational Biology
+
+I apply computational biology methods to answer biological questions. Often, these questions are related to the topics above, but I have also collaborated in a variety of other areas including human gene expression in cancer, mouse models of human disease, fish microbiome characterization, and hookworm developmental gene expression. My computational biology work has involved phylogenetics, phylogenomics, ortholog identification, microbiome analysis, transcriptome assembly, genome assembly, and differential gene expression analyses.
