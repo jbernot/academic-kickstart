@@ -17,6 +17,8 @@ header:
 ### Crustacean Phylogenomics
 
 Crustaceans are a group of arthropods that includes familiar animals like crabs, shrimp, and lobsters, as well as thousands of other species with extremely varied ways of life, including sessile, shell-incased barnacles, swimming centipede-like remipedes, giant deep-sea isopods, and many others. For centuries scientists have debated how these various animals are related to one another, and this still remains a mystery today. By using large genomic and transcriptomic datasets, I hope to build a better picture of the crustacean tree of life.
+
+<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/crustacea_tree_blue.png?raw=true">
  
 ### Copepod Diversity
 
