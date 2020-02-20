@@ -23,7 +23,7 @@ The Expert Is In: <u>Crustacean Diversity</u>. Ocean Hall, Smithsonian National 
 Art of Biology. Outreach for elementary school students. Biology Department, George Washington University.
 
 ### January 3, 2020
-[Interviewed](http://phdetails.blogspot.com/2020/01/83-jimmy-bernot.html) in [PhDetails](http://phdetails.blogspot.com) blog on graduate student life on on 
+[Interviewed](http://phdetails.blogspot.com/2020/01/83-jimmy-bernot.html) in [PhDetails](http://phdetails.blogspot.com) blog on graduate student life.
 
 ### Passed events:
 

@@ -14,15 +14,21 @@ header:
   image: ""
 ---
 
-### Crustacean Phylogenomics
+### Crustacean Phylogenomics 
 
 Crustaceans are a group of arthropods that includes familiar animals like crabs, shrimp, and lobsters, as well as thousands of other species with extremely varied ways of life, including sessile, shell-incased barnacles, swimming centipede-like remipedes, giant deep-sea isopods, and many others. For centuries scientists have debated how these various animals are related to one another, and this still remains a mystery today. By using large genomic and transcriptomic datasets, I hope to build a better picture of the crustacean tree of life.
 
-<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/crustacea_tree_blue.png?raw=true">
- 
+<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/crustacea_tree_blue.png?raw=true" style="width:300px;height:300px;">
+
+
 ### Copepod Diversity
 
 Copepods are a group of small aquatic crustaceans containing 11,000 species that are likely the most abundant animals in the ocean. Most copepods are about the size and shape of a grain of rice, but their small size belies their essential role in ecosystems. They are ubiquitous in aquatic environments from mountain streams to all depths of the ocean and are even abundant in canopy mosses and wet soil. Most ocean animals are directly or indirectly dependent on copepods as a food source. In addition, about half of all copepods (6,000 species) are parasites of other animals. I am particularly interested in parasitic copepods. I use microscopy to identify copepods, describe new species, and document their morphology, and next-generation sequencing (NGS) to understand how copepods are related to each other and how they have diversified.
+
+<table class="image">
+<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Веслоногие_ракообразные_разных_видов.jpg/1280px-Веслоногие_ракообразные_разных_видов.jpg" style="width:800px"></td></tr>
+<tr><td class="caption" align="center" ><small>Image credit: <a href="https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D1%81%D0%BB%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5_%D1%80%D0%B0%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85_%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2.jpg" title="via Wikimedia Commons">Andrei Savitsky</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA </a> </small> </td></tr>
+</table>
 
 ### Tapeworm Taxonomy and Systematics
 
