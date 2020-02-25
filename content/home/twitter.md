@@ -1,18 +1,18 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# A twitter feed of JP_Bernot created with the Pages widget.
+# This section displays tweets from my twitter account JP_Bernot.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Twitter"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "posts"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -68,13 +68,4 @@ subtitle = ""
  css_class = ""
 +++
 
-### *Open to the public: March 24, 2020 11am-1pm 
-The Expert Is In: <u>Crustacean Diversity</u>. Ocean Hall, Smithsonian National Museum of Natural History. 
-
-### March 31, 2020
-Art of Biology. Outreach for elementary school students. Biology Department, George Washington University.
-
-### April 14, 2020
-<u>Surprising incongruity in crustacean phylogenomic analyses</u>. Department of Invertebrate Zoology No-Bones Seminar Series. Smithsonian National Museum of Natural History 
-
-
+<a class="twitter-timeline" data-height="1500" href="https://twitter.com/JP_Bernot?ref_src=twsrc%5Etfw">Tweets by JP_Bernot</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

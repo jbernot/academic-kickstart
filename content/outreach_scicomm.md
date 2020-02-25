@@ -16,7 +16,7 @@ header:
 
 <img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo2.jpg?raw=true">
 
-### *Open to the public: March 24, 2020
+### *Open to the public: March 24, 2020 11am-1pm 
 The Expert Is In: <u>Crustacean Diversity</u>. Ocean Hall, Smithsonian National Museum of Natural History. 
 
 ### March 31, 2020
