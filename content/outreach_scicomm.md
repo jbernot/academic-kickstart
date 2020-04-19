@@ -16,10 +16,10 @@ header:
 
 <img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo2.jpg?raw=true">
 
-### *Open to the public: March 24, 2020 11am-1pm 
+### CANCELED due to COVID-19 *Open to the public: March 24, 2020 11am-1pm 
 The Expert Is In: <u>Crustacean Diversity</u>. Ocean Hall, Smithsonian National Museum of Natural History. 
 
-### March 31, 2020
+### CANCELED due to COVID-19 March 31, 2020
 Art of Biology. Outreach for elementary school students. Biology Department, George Washington University.
 
 ### January 3, 2020
