@@ -16,11 +16,13 @@ header:
 
 ### In Press and 2020    
 
+<b>Bernot, J. P.</b>, Rudy, G., Erickson, P. T., Ratnappan, R., Haile, M., Rosa, B. A., Mitreva, M., O’Halloran, D. M., Hawdon, J. M. (in press). <u>Transcriptomic analysis of hookworm Ancylostoma ceylanicum life cycle stages reveals changes in GPCR diversity associated with the onset of parasitism</u>. <i>International Journal for Parasitology</i>. 17 pages + 3 figures.
+
 Boxshall, G. A., <b>Bernot, J. P.</b>, Barton, D. P., Diggles, B. K., Yong, R. Q.-Y., Atkinson-Coyle, T., Hutson, K. S. (2020). <u>Parasitic copepods of the family Lernanthropidae Kabata, 1979 (Copepoda: Siphonostomatoida) from Australian fishes with descriptions of seven new species</u>. <i>Zootaxa</i>. https://doi.org/10.11646/zootaxa.4736.1.1
 
 Maynard, T., Horvath, A., <b>Bernot, J. P.</b>, Karpinksi, B., Tavares, A. L. P., Zeng, A. S. Q., Spurr, L., Olender, J., Moody, S. A., Fraser, C. M., LaMantia, A. S., Lee, N. H. (2020). <u>Transcriptional dysregulation in developing trigeminal sensory neurons in the LgDel mouse model of DiGeorge 22q11.2 Deletion Syndrome</u>. <i>Human Molecular Genetics</i>. https://doi.org/10.1093/hmg/ddaa024
 
-Fujiogi, M., Camargo Jr., C. A., <b>Bernot, J. P.</b>, Freishtat, R. J., Harmom, B., Mansbach, J. Castro-Nallar, E., Perez-Losada, E., Hasegawa, K. (in press). <u>In infants with severe bronchiolitis: dual-transcriptomic profiling of nasopharyngeal microbiome and host response</u>. <i>Pediatric Research</i>. Preprint: https://www.nature.com/articles/s41390-019-0742-8
+Fujiogi, M., Camargo Jr., C. A., <b>Bernot, J. P.</b>, Freishtat, R. J., Harmom, B., Mansbach, J. Castro-Nallar, E., Perez-Losada, E., Hasegawa, K. (2020). <u>In infants with severe bronchiolitis: dual-transcriptomic profiling of nasopharyngeal microbiome and host response</u>. <i>Pediatric Research</i>. https://www.nature.com/articles/s41390-019-0742-8
 
 ### 2019 
 

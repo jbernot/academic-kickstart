@@ -16,20 +16,21 @@ header:
 
 <img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo2.jpg?raw=true">
 
-### CANCELED due to COVID-19 *Open to the public: March 24, 2020 11am-1pm 
-The Expert Is In: <u>Crustacean Diversity</u>. Ocean Hall, Smithsonian National Museum of Natural History. 
+#### CANCELED due to COVID-19 
+<del>*Open to the public: March 24, 2020 11am-1pm </del>
+<del>The Expert Is In: <u>Crustacean Diversity</u>. Ocean Hall, Smithsonian National Museum of Natural History.</del>
 
-### CANCELED due to COVID-19 March 31, 2020
-Art of Biology. Outreach for elementary school students. Biology Department, George Washington University.
-
-### January 3, 2020
-[Interviewed](http://phdetails.blogspot.com/2020/01/83-jimmy-bernot.html) in [PhDetails](http://phdetails.blogspot.com) blog on graduate student life.
-
-### Passed events:
+#### CANCELED due to COVID-19 
+<del>March 31, 2020</del>
+<del>Art of Biology. Outreach for elementary school students. Biology Department, George Washington University.</del>
 
 #### 2020
 
+<u>Parasite Biology</u>. Present to an auditorium of 70+ 8th graders for “World Parasite Day”. Imagine Foundations at Morningside Public Charter School. Prince George’s County, MD. March 6, 2020. 
+
 <u>Crustacean diversity and current topics in crustacean research</u>. In: Animal Diversity. Meredith College, NC. January 31, 2020.
+
+[Interviewed](http://phdetails.blogspot.com/2020/01/83-jimmy-bernot.html) in [PhDetails](http://phdetails.blogspot.com) blog on graduate student life. January 3, 2020.
 
 #### 2019
 
