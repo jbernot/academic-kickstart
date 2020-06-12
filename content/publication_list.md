@@ -26,7 +26,7 @@ Fujiogi, M., Camargo Jr., C. A., <b>Bernot, J. P.</b>, Freishtat, R. J., Harmom,
 
 ### 2019 
 
-<b>Bernot, J. P.</b> and Caira, J. N. (2019). <u>Site specificity and attachment mode of <i>Symcallio</i> and <i>Calliobothrium</i>> species (Cestoda: “Tetraphyllidea”) in smoothhound sharks of the genus <i>Mustelus</i> (Carcharhiniformes: Triakidae)</u>. <i>PeerJ</i> http://doi.org/10.7717/peerj.7264
+<b>Bernot, J. P.</b> and Caira, J. N. (2019). <u>Site specificity and attachment mode of <i>Symcallio</i> and <i>Calliobothrium</i> species (Cestoda: “Tetraphyllidea”) in smoothhound sharks of the genus <i>Mustelus</i> (Carcharhiniformes: Triakidae)</u>. <i>PeerJ</i> http://doi.org/10.7717/peerj.7264
 
 <b>Bernot, J. P.</b> and Boxshall, G. A. (2019). <u>Two new species of parasitic copepods from the genera <i>Nothobomolochus</i> and <i>Unicolax</i> (Cyclopoida: Bomolochidae)  from Australian waters</u>. <i>PeerJ</i> http://doi.org/10.7717/peerj.6858
 
