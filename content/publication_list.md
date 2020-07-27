@@ -16,7 +16,8 @@ header:
 
 ### In Press and 2020    
 
-<b>Bernot, J. P.</b>, Rudy, G., Erickson, P. T., Ratnappan, R., Haile, M., Rosa, B. A., Mitreva, M., O’Halloran, D. M., Hawdon, J. M. (in press). <u>Transcriptomic analysis of hookworm Ancylostoma ceylanicum life cycle stages reveals changes in GPCR diversity associated with the onset of parasitism</u>. <i>International Journal for Parasitology</i>. 17 pages + 3 figures.
+<b>Bernot, J. P.</b>, Rudy, G., Erickson, P. T., Ratnappan, R., Haile, M., Rosa, B. A., Mitreva, M., O’Halloran, D. M., Hawdon, J. M. (2020). <u>Transcriptomic analysis of hookworm Ancylostoma ceylanicum life cycle stages reveals changes in GPCR diversity associated with the onset of parasitism</u>. <i>International Journal for Parasitology</i>.
+https://doi.org/10.1016/j.ijpara.2020.05.003
 
 Boxshall, G. A., <b>Bernot, J. P.</b>, Barton, D. P., Diggles, B. K., Yong, R. Q.-Y., Atkinson-Coyle, T., Hutson, K. S. (2020). <u>Parasitic copepods of the family Lernanthropidae Kabata, 1979 (Copepoda: Siphonostomatoida) from Australian fishes with descriptions of seven new species</u>. <i>Zootaxa</i>. https://doi.org/10.11646/zootaxa.4736.1.1
 

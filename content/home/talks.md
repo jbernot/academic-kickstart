@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Recent and Upcoming Events"
 subtitle = ""
 
 [content]
@@ -68,11 +68,17 @@ subtitle = ""
  css_class = ""
 +++
 
-### CANCELED due to COVID-19 *Open to the public: March 24, 2020 11am-1pm 
-The Expert Is In: <u>Crustacean Diversity</u>. Ocean Hall, Smithsonian National Museum of Natural History. 
+### July 3, 2020
+Wrote [blog post](https://werepstem.com/2020/07/03/profile-james-jimmy-bernot-ph-d-candidate-in-genomics-bioinformatics-nsf-postdoc-research-fellow-in-biological-collections/) for [WeRepSTEM](https://werepstem.com), a diversity in STEM blog. 
 
-### CANCELED due to COVID-19 March 31, 2020
-Art of Biology. Outreach for elementary school students. Biology Department, George Washington University.
+### June 25, 2020
+<u>A new phylogeny of the Pancrustacea</u>. [Parasite Hour](https://www.amsocparasit.org/post/parasite-hour-week-3) Virtual Conference. American Society of Parasitologists.
+
+### June 16, 2020
+[Skype a Scientist](https://www.skypeascientist.com). Met with 5th grade class for marine biology lesson and Q&A. The Leffell School, White Plains, NY.
+
+### June 5, 2020
+[Skype a Scientist](https://www.skypeascientist.com). Met with 4th grade class for marine biology lesson and Q&A. Hampstead Hill Academy, Baltimore, MD.
 
 ### April 14, 2020 (changed to video conference)
 <u>Surprising incongruity in crustacean phylogenomic analyses</u>. Department of Invertebrate Zoology No-Bones Seminar Series. Smithsonian National Museum of Natural History 
