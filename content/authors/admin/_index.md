@@ -14,11 +14,11 @@ role: Evolutionary biologist
 
 # Organizations/Affiliations
 organizations:
-- name: George Washington University (PhD candidate)
+- name: NSF Postdoc Research Fellow at Smithsonian National Museum of Natural History
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include research interests include crustacean phylogenetics, copepod taxonomy and systematics, parasite evolution, and computational biology.
+bio: My research interests include crustacean phylogenetics, copepod taxonomy and systematics, parasite evolution, and computational biology.
 
 interests:
 - Crustacean Phylogenetics
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD Genomics & Bioinformatics
     institution: George Washington University
-    year: 2015-present
+    year: 2015-2020
   - course: MS Ecology & Evolutionary Biology
     institution: University of Connecticut
     year: 2015
@@ -63,7 +63,7 @@ social:
   link: https://www.linkedin.com/in/james-bernot-1b2965a9/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/JP_Bernot
+  link: https://twitter.com/JimmyBernot
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -83,6 +83,6 @@ user_groups:
 - Visitors
 ---
 
-Jimmy Bernot is an evolutionary biologist at George Washington University and a Research Associate at the Smithsonian National Museum of Natural History. His research interests include crustacean phylogenetics, copepod taxonomy and systematics, parasite evolution, and computational biology. He is working to resolve the crustacean tree of life and understand the processes that have resulted in the spectacular morphological diversity of modern crustaceans, with a particular focus on parasitic copepods.
+Jimmy Bernot is an evolutionary biologist and NSF Postdoc Research Fellow at the Smithsonian National Museum of Natural History. His research interests include crustacean phylogenetics, copepod taxonomy and systematics, parasite evolution, and computational biology. He is working to resolve the crustacean tree of life and understand the processes that have resulted in the spectacular morphological diversity of modern crustaceans, with a particular focus on parasitic copepods.
 
-He is also passionate about science communication, public engagement, education, and outreach. He regularly participates in outreach events in Washington DC, especially at the Smithsonian National Museum of Natural History. See information below for upcoming events and follow him on Twitter [@JP_Bernot](https://twitter.com/JP_Bernot)
+He is also passionate about science communication, public engagement, education, and outreach. Jimmy regularly participates in outreach events in Washington DC, especially at the Smithsonian National Museum of Natural History and surrounding K-12 schools. He is actively involved in science engagement on digital media platforms including [Twitter](https://twitter.com/JimmyBernot), [Instagram](https://www.instagram.com/jimmybernot/), [Skype A Scientist](https://www.skypeascientist.com), and podcasts. Follow him [@JimmyBernot](https://twitter.com/JimmyBernot) to see his most recent updates and science engagement work. Use the contact form below or feel free to DM him on Twitter for speaking engagement or interview requests.

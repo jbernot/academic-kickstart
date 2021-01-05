@@ -16,7 +16,14 @@ header:
 
 <img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo2.jpg?raw=true">
 
+#### 2021
+
+Interviewed on [LGBTQ+ STEMCast](ttps://anchor.fm/lgbtqstemcast), a podcast featuring LGBTQ+ scientists. January 4, 2021.
+<iframe src="https://anchor.fm/lgbtqstemcast/embed/episodes/HOW-MANY-SPECIES----with-Jimmy-Bernot-eogokl/a-a48t6nq" height="102px" width="725px" frameborder="0" scrolling="no"></iframe>
+
 #### 2020
+
+Co-manages the [World Association of Copepodologists](http://www.monoculus.org) Official [Twitter Account @copepodology](https://twitter.com/copepodology). 2020-present.
 
 Parasite Hour Virtual Conference. “A new phylogeny of the Pancrustacea” American Society of Parasitologists [“Parasite Hour” Virtual Conference](https://www.amsocparasit.org/post/parasite-hour-week-3). June 25, 2020.
 

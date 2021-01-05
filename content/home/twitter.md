@@ -1,6 +1,6 @@
 +++
-# A twitter feed of JP_Bernot created with the Pages widget.
-# This section displays tweets from my twitter account JP_Bernot.
+# A twitter feed of JimmyBernot created with the Pages widget.
+# This section displays tweets from my twitter account JimmyBernot.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -68,4 +68,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<a class="twitter-timeline" data-height="1500" href="https://twitter.com/JP_Bernot?ref_src=twsrc%5Etfw">Tweets by JP_Bernot</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="1500" href="https://twitter.com/JimmyBernot?ref_src=twsrc%5Etfw">Tweets by JimmyBernot</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
