@@ -68,6 +68,24 @@ subtitle = ""
  css_class = ""
 +++
 
+### [WoRMS article “Ten remarkable new marine species from 2020”](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020) 
+Cowrote article for Taxonomists Appreciation Day to draw public attention and press coverage to taxonomic research. March 19, 2021.
+
+### [Skype A Scientist LIVE event](https://youtu.be/6-57CouBfMk). 
+Virtual live Q&A and introduction to marine plankton and parasites with >200 attendees. March 10, 2021.
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6-57CouBfMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### [Snopes article on parasitic isopods](https://www.snopes.com/fact-check/parasite-fish-tongue-mouth/)
+Interviewed and supplied photographs for Snopes article on cymothoid isopods and fish tongue replacement. March 5, 2021.
+
+### [7 Ocean Parasites Worth Celebrating on World Parasite Day](https://ocean.si.edu/ocean-life/7-ocean-parasites-worth-celebrating-world-parasite-day)
+Cowrote article for Smithsonian Ocean Portal website. March 2, 2021.
+
+### Smithsonian NMNH social media 
+Social media takeover of NMNH channels for World Parasite Day. Wrote posts for 
+Smithsonian NMNH Twitter, Instagram, and Facebook.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s <a href="https://twitter.com/hashtag/ParasiteWeek2021?src=hash&amp;ref_src=twsrc%5Etfw">#ParasiteWeek2021</a> and three of our experts—Jimmy Bernot, Anna Phillips, and Kelly Speer (L-R)—will be taking over our social media platforms to teach you about everything from their natural history to why their conservation (yes conservation!) matters. <a href="https://t.co/IjmW3dNnn1">pic.twitter.com/IjmW3dNnn1</a></p>&mdash; Smithsonian&#39;s NMNH (@NMNH) <a href="https://twitter.com/NMNH/status/1366410398178578437?ref_src=twsrc%5Etfw">March 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### [Just the Zoo of Us](https://www.justthezooofus.com) Podcast Feature
 Copepod biology and adaptions. [Just the Zoo of Us](https://www.justthezooofus.com) episode 86 – an animal 
 diversity podcast. February 24, 2021
