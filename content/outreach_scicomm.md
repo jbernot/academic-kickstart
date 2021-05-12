@@ -24,6 +24,9 @@ Interviewed for articles on challenge trials in medical research. April 7, 2021
 ### Cowrote [WoRMS](https://www.marinespecies.org/about.php) article [“Ten remarkable new marine species from 2020”](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020) 
 Cowrote article for Taxonomists Appreciation Day to draw public attention and press coverage to taxonomic research. Created [Youtube](https://www.youtube.com/watch?v=mwFdbec5k8s) video. March 19, 2021.
 
+### Created Youtube video for WoRMS Ten remarkable new marine species from 2020
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mwFdbec5k8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Skype A Scientist LIVE event 
 Virtual live Q&A and introduction to marine plankton and parasites with >200 attendees. March 10, 2021.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6-57CouBfMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -130,7 +133,7 @@ ethics. George Washington University. Washington, DC. April 19, 2016.
 #### Photo Credit for Smithsonian Insider Article
 Contributed photographs for Smithsonian Insider article: <u>In face of mass extinctions Smithsonian’s Global Genome Initiative quietly saves world’s DNA</u>. April 5, 2016.
 
-#### Ehibit Design
+#### Exibit Design
 Prepared specimens and worked with a photographer to design an exhibit on tapeworms in the Connecticut State Natural History Museum. https://www.flickr.com/photos/107963674@N07/albums/72157662181220376
 
 #### Book Chapter Consulation
