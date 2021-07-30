@@ -68,10 +68,14 @@ subtitle = ""
  css_class = ""
 +++
 
+### [The Atlantic article on tongue-biter isopods](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
+Interviewed and quoted in article on tongue-biter parasitic isopods. July 14, 2021. [<img src="https://cdn.theatlantic.com/thumbor/bGEbRK5yDxekkpm3w12O40TvVH4=/0x0:2500x1406/1952x1098/media/img/mt/2021/07/2B1EF3D/original.jpg">](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
+
 ### [WoRMS article “Ten remarkable new marine species from 2020”](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020) 
 Cowrote article for Taxonomists Appreciation Day to draw public attention and press coverage to taxonomic research. March 19, 2021.
+[<img src="https://www.marinespecies.org/images/layout/WoRMS_logo_neg_blue.png">](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020) 
 
-### [Skype A Scientist LIVE event](https://youtu.be/6-57CouBfMk). 
+### [Skype A Scientist LIVE event](https://youtu.be/6-57CouBfMk) 
 Virtual live Q&A and introduction to marine plankton and parasites with >200 attendees. March 10, 2021.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6-57CouBfMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -80,6 +84,7 @@ Interviewed and supplied photographs for Snopes article on cymothoid isopods and
 
 ### [7 Ocean Parasites Worth Celebrating on World Parasite Day](https://ocean.si.edu/ocean-life/7-ocean-parasites-worth-celebrating-world-parasite-day)
 Cowrote article for Smithsonian Ocean Portal website. March 2, 2021.
+[<img src="https://ocean.si.edu/sites/default/files/styles/article_main_image/public/2021-03/sealamprey8741578394.jpg?itok=7KX_2NuK">](https://ocean.si.edu/ocean-life/7-ocean-parasites-worth-celebrating-world-parasite-day)
 
 ### Smithsonian NMNH social media 
 Social media takeover of NMNH channels for World Parasite Day. Wrote posts for 
@@ -89,7 +94,7 @@ Smithsonian NMNH Twitter, Instagram, and Facebook.
 ### [Just the Zoo of Us](https://www.justthezooofus.com) Podcast Feature
 Copepod biology and adaptions. [Just the Zoo of Us](https://www.justthezooofus.com) episode 86 – an animal 
 diversity podcast. February 24, 2021
-<iframe src="https://castbox.fm/app/castbox/player/id2128725/id358501604?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="232px"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/7hBU047dc1Xyg6p6rkgdZY" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Cal. Academy of Sciences [Genomics Seminar](https://www.calacademy.org/virtual-genomic-social-hour)
 Invited speaker for Cal. Academy of Sciences [Genomics Social Hour](https://www.calacademy.org/virtual-genomic-social-hour) on Parasite and Host Genomics. Feb. 17, 2021. Talks available below on Youtube.

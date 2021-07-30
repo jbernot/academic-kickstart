@@ -18,11 +18,21 @@ header:
 
 <img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo2.jpg?raw=true">
 
+### Interviewd in [The Atlantic](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
+Article on tongue-biter parasitic isopods. July 14, 2021
+[<img src="https://cdn.theatlantic.com/thumbor/bGEbRK5yDxekkpm3w12O40TvVH4=/0x0:2500x1406/1952x1098/media/img/mt/2021/07/2B1EF3D/original.jpg">](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
+
+### [Planet B162](https://planetb612.fm) microscopy podcast feature
+<iframe src="https://open.spotify.com/embed/episode/2KGh4IkjiRFbOIYrKFwbXz" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+### [Sharkpedia](https://anchor.fm/sharkpediapod/episodes/Shark-Parasites-with-Dr--Jimmy-Bernot-e13emju) podcast feature
+<iframe src="https://open.spotify.com/embed/episode/6YAwzxK1jmt3tjqZmLTzyE" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ### Interviewed in [Slate](https://slate.com/technology/2021/04/covid-19-challenge-trials-malaria-hookworms.html) and [Undark](https://undark.org/2021/04/07/getting-sick-for-medical-research/) 
-Interviewed for articles on challenge trials in medical research. April 7, 2021
+Article on challenge trials in medical research. April 7, 2021
 
 ### Cowrote [WoRMS](https://www.marinespecies.org/about.php) article [“Ten remarkable new marine species from 2020”](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020) 
-Cowrote article for Taxonomists Appreciation Day to draw public attention and press coverage to taxonomic research. Created [Youtube](https://www.youtube.com/watch?v=mwFdbec5k8s) video. March 19, 2021.
+Celebrating Taxonomists Appreciation Day to draw public attention and press coverage to taxonomic research. Created [Youtube](https://www.youtube.com/watch?v=mwFdbec5k8s) video. March 19, 2021.
 
 ### Created Youtube video for WoRMS Ten remarkable new marine species from 2020
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/mwFdbec5k8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -32,7 +42,7 @@ Virtual live Q&A and introduction to marine plankton and parasites with >200 att
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6-57CouBfMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Interviewed and photos for [Snopes](https://www.snopes.com/fact-check/parasite-fish-tongue-mouth/) article on parasitic isopods
-Interviewed and supplied photographs for Snopes article on cymothoid isopods and fish tongue replacement. March 5, 2021.
+Article on cymothoid isopod "tongue-biters". March 5, 2021.
 
 ### [7 Ocean Parasites Worth Celebrating on World Parasite Day](https://ocean.si.edu/ocean-life/7-ocean-parasites-worth-celebrating-world-parasite-day)
 Cowrote article for Smithsonian Ocean Portal website. March 2, 2021.
@@ -45,7 +55,7 @@ Smithsonian NMNH Twitter, Instagram, and Facebook.
 #### [Just the Zoo of Us](https://www.justthezooofus.com) Podcast Feature
 Copepod biology and adaptions. [Just the Zoo of Us](https://www.justthezooofus.com) episode 86 – an animal 
 diversity podcast. February 24, 2021
-<iframe src="https://castbox.fm/app/castbox/player/id2128725/id358501604?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="232px"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/7hBU047dc1Xyg6p6rkgdZY" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 #### Cal. Academy of Sciences [Genomics Seminar](https://www.calacademy.org/virtual-genomic-social-hour)
 Invited speaker for Cal. Academy of Sciences [Genomics Social Hour](https://www.calacademy.org/virtual-genomic-social-hour) on Parasite and Host Genomics. Feb. 17, 2021. Talks available below on Youtube.
@@ -56,7 +66,7 @@ The World of Queer Worms. Podcast panel discussion on hermaphroditic life on [Ex
 <iframe src="https://open.spotify.com/embed-podcast/episode/0yKH7kt3fh93RZpxlJF7SN" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 #### IFLScience Article
-Collaborated on pop-sci article with [IFLScience](https://www.iflscience.com/health-and-medicine/scientist-volunteers-to-be-parasitized-by-50-hookworms-for-vaccine-study/) on parasites and an experimental hookworm vaccine study. Feb. 2, 2021
+Collaborated on [IFLScience](https://www.iflscience.com/health-and-medicine/scientist-volunteers-to-be-parasitized-by-50-hookworms-for-vaccine-study/) article on parasites and an experimental hookworm vaccine study. Feb. 2, 2021
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scientist Volunteers To Be Parasitized By 50 Hookworms For Vaccine Study<a href="https://t.co/ot3zCsDrmB">https://t.co/ot3zCsDrmB</a> <a href="https://t.co/Im8vwhkk2T">pic.twitter.com/Im8vwhkk2T</a></p>&mdash; IFLScience (@IFLScience) <a href="https://twitter.com/IFLScience/status/1356620030625144833?ref_src=twsrc%5Etfw">February 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Hookworm Vaccine & Challenge Trial Thread
@@ -91,9 +101,6 @@ Wrote [blog post](https://werepstem.com/2020/07/03/profile-james-jimmy-bernot-ph
 #### “World Parasite Day” Auditorium Presentation
 Presented to 70 8th graders for Imagine Foundations at Morningside Public Charter School. Prince George’s County, MD. March 6, 2020. 
 
-#### Visiting Lecture: Crustacean Diversity 
-<u>Crustacean diversity and current topics in crustacean research</u>. In: Animal Diversity. Meredith College, NC. January 31, 2020.
-
 #### [PhDetails](http://phdetails.blogspot.com) Blog Post
 [Interviewed](http://phdetails.blogspot.com/2020/01/83-jimmy-bernot.html) for [PhDetails](http://phdetails.blogspot.com) blog on graduate student life. January 3, 2020.
 
@@ -106,12 +113,6 @@ Scientist representative for Congressional Science Night. Smithsonian National M
 
 #### Parasite Day Guest Speaker
 Guest speaker on parasite biology, research, and career options at Temple High School in Arizona on Parasite Day. Video call, presentation, and Q&A for 2 12th grade science classes. March 4, 2019.
-
-#### GWU Research Panel Member
-Panel member for GWU undergraduate Q&A on graduate school and research experience. GWU November 27, 2018.
-
-#### Guest Speaker: Computational Biology
-Discussed research in the Computational Biology Institute in Introduction to Medicine, a college-level course for high school students. George Washington University. July 3, 2018.
 
 #### Public Outreach at Smithsonian NMNH
 Crustacean scientist, Ocean Hall Department of Invertebrate Zoology public outreach. Crustacean specimen displays and Q&A. Smithsonian National Museum of Natural History. April 5, 2018.
@@ -136,15 +137,8 @@ Contributed photographs for Smithsonian Insider article: <u>In face of mass exti
 #### Exibit Design
 Prepared specimens and worked with a photographer to design an exhibit on tapeworms in the Connecticut State Natural History Museum. https://www.flickr.com/photos/107963674@N07/albums/72157662181220376
 
-#### Book Chapter Consulation
-Consulted with Gene Helfman and George Burgess for the publication 
-of the book <u>Sharks: The Animal Answer Guide</u>. 
-
 #### Parasite Curriculum K-5
-Designed and presented a curriculum on parasites for 1st and 4th grade
-students. Franklin Elementary School Franklin, CT. 
+Designed and presented curricula on parasites for 1st, 3rd, and 4th grade
+students. Franklin Elementary School Franklin, CT. 2013, 2014
 
-#### Parasite Curriculum Grades 3 & 4
-Designed and presented a curriculum on parasites for 3rd and 4th grade
-students. Franklin Elementary School Franklin, CT. 
 

@@ -87,4 +87,5 @@ Jimmy Bernot (he/him) is an evolutionary biologist and NSF Postdoc Research Fell
 
 He is also passionate about science communication, public engagement, education, and outreach. Jimmy regularly participates in outreach events in Washington DC, especially at the Smithsonian National Museum of Natural History and surrounding K-12 schools. He is actively involved in science engagement on digital media platforms including [Twitter](https://twitter.com/JimmyBernot), [Instagram](https://www.instagram.com/jimmybernot/), [Skype A Scientist](https://www.skypeascientist.com), and podcasts. Follow him [@JimmyBernot](https://twitter.com/JimmyBernot) to see his most recent updates and science engagement work. Use the contact form below or feel free to DM him on Twitter for speaking engagement or interview requests.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/cZN6BZ5WbnY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/wcx3__ClR18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

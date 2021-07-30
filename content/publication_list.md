@@ -14,6 +14,10 @@ header:
   image: ""
 ---
 
+### 2021
+Haskins, I. N., Wang, B.-D., <b>Bernot, J. P.</b>, Cauley, E.C., Horvath, A., Marks, J. H., Lee, N. H., Agarwal, S. (in press). <u>Genomics of Black American Colon Cancer Disparities: An RNA-Seq Study from an Academic, Tertiary Referral Center</u>. <i>Surgery</i>. https://doi.org/10.1016/j.surg.2021.03.031
+
+
 ### 2020    
 
 <b>Bernot, J. P.</b>, Rudy, G., Erickson, P. T., Ratnappan, R., Haile, M., Rosa, B. A., Mitreva, M., O’Halloran, D. M., Hawdon, J. M. (2020). <u>Transcriptomic analysis of hookworm Ancylostoma ceylanicum life cycle stages reveals changes in GPCR diversity associated with the onset of parasitism</u>. <i>International Journal for Parasitology</i>.
