@@ -15,8 +15,9 @@ header:
 ---
 
 ### 2021
-Haskins, I. N., Wang, B.-D., <b>Bernot, J. P.</b>, Cauley, E.C., Horvath, A., Marks, J. H., Lee, N. H., Agarwal, S. (in press). <u>Genomics of Black American Colon Cancer Disparities: An RNA-Seq Study from an Academic, Tertiary Referral Center</u>. <i>Surgery</i>. https://doi.org/10.1016/j.surg.2021.03.031
+<b>Bernot, J. P.</b>, Boxshall, G. A., Crandall, K. A. (2021). <u>A synthesis tree of the Copepoda: integrating phylogenetic and taxonomic data reveals multiple origins of parasitism</u>. <i>PeerJ</i>. https://doi.org/10.7717/peerj.12034
 
+Haskins, I. N., Wang, B.-D., <b>Bernot, J. P.</b>, Cauley, E. C., Horvath, A., Marks, J. H., Lee, N. H., Agarwal, S. (2021). <u>Genomics of Black American Colon Cancer Disparities: An RNA-Seq Study from an Academic, Tertiary Referral Center</u>. <i>Surgery</i>. https://doi.org/10.1016/j.surg.2021.03.031
 
 ### 2020    
 

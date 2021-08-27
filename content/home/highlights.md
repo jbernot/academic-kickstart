@@ -68,6 +68,10 @@ subtitle = ""
  css_class = ""
 +++
 
+### New [paper](https://peerj.com/articles/12034/) published on copepod phylogeny and evolution of parasitism
+August 18, 2021
+[<img src="https://dfzljdn9uc3pi.cloudfront.net/2021/12034/1/fig-1-2x.jpg">](https://peerj.com/articles/12034/)
+
 ### [The Atlantic article on tongue-biter isopods](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
 Interviewed and quoted in article on tongue-biter parasitic isopods. July 14, 2021. [<img src="https://cdn.theatlantic.com/thumbor/bGEbRK5yDxekkpm3w12O40TvVH4=/0x0:2500x1406/1952x1098/media/img/mt/2021/07/2B1EF3D/original.jpg">](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
 

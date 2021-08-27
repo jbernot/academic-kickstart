@@ -18,7 +18,12 @@ header:
 
 <img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo2.jpg?raw=true">
 
-### Interviewd in [The Atlantic](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
+#### [Exolore](https://www.exolorepod.com/episodes) Podcast Feature
+M Dwarf Planet: Biology. Podcast panel discussion
+featuring scientists discussing biology on alien worlds. [Exolore Podcast](https://www.exolorepod.com/episodes) episode 23, a podcast featuring scientists, historians, psychologists that discuss biological and sociological implications of sci-fi worlds. Aug. 27, 2021
+<iframe src="https://open.spotify.com/embed/episode/7rTWLqBwDI1FELcfiBXSy2" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+### Interviewed in [The Atlantic](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
 Article on tongue-biter parasitic isopods. July 14, 2021
 [<img src="https://cdn.theatlantic.com/thumbor/bGEbRK5yDxekkpm3w12O40TvVH4=/0x0:2500x1406/1952x1098/media/img/mt/2021/07/2B1EF3D/original.jpg">](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
 
