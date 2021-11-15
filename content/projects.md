@@ -14,18 +14,22 @@ header:
   image: ""
 ---
 
-### Crustacean Phylogenomics 
+### Crustacean Phylogenomics
 
-Crustaceans are a group of arthropods that includes familiar animals like crabs, shrimp, and lobsters, as well as thousands of other species with extremely varied ways of life, including sessile, shell-incased barnacles, swimming centipede-like remipedes, giant deep-sea isopods, and many others. For centuries scientists have debated how these various animals are related to one another, and this still remains a mystery today. By using large genomic and transcriptomic datasets, I hope to build a better picture of the crustacean tree of life.
+Crustaceans are a group of arthropods that includes familiar animals like crabs, shrimp, and lobsters, as well as thousands of other species with extremely varied ways of life, including sessile, shell-incased barnacles, swimming centipede-like remipedes, giant deep-sea isopods, and many others. For centuries scientists have debated how these various animals are related to one another, and this still remains a mystery today. By using large genomic and transcriptomic datasets and expanded taxon sampling I hope to build a better picture of the crustacean tree of life.
 
 <img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/crustacea_tree_blue.png?raw=true" style="width:200px;height:200px;">
 
 
 ### Copepod Diversity
 
-Copepods are a group of small aquatic crustaceans containing 14,000 species that are likely the most abundant animals in the ocean. Most copepods are about the size and shape of a sesame seed or grain of rice, but their small size belies their essential role in ecosystems. They are ubiquitous in aquatic environments from mountain streams to all depths of the ocean and are even abundant in canopy mosses and wet soil. Most ocean animals are directly or indirectly dependent on copepods as a food source. In addition, about half of all copepods (>6,000 species) are parasites of other animals. I am particularly interested in parasitic copepods. I use microscopy to identify copepods, [describe new species](https://peerj.com/articles/6858/), and document their [morphology](https://peerj.com/articles/6858/#fig-5). I use next-generation sequencing (NGS) to understand how copepods are related to each other and how they have diversified. My 3 year [NSF postdoc research fellowship](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010898) focuses on building the copepod tree of life by developing a multigene AHE probe set for copepod phylogenomics. I am also interested in the comibation of science and art in illustrations such as the one below, both as tools for science communication and engagement, and for their own esthetic qualities.
+Copepods are a group of small aquatic crustaceans containing 14,000 species that are likely the most abundant animals in the ocean. Most copepods are about the size and shape of a sesame seed or grain of rice, but their small size belies their essential role in ecosystems. They are ubiquitous in aquatic environments from mountain streams to all depths of the ocean and are even abundant in canopy mosses and wet soils. Most ocean animals are directly or indirectly dependent on copepods as a food source. In addition, about half of all copepods (>6,000 species) are parasites of other animals, my research largely focuses on parasitic copepods. 
 
-<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/a_conglomerate_of_copepods_A3_web.png?raw=true" style="width:492px;height:345px;">
+I combine field work, traditional morphological identification, cutting edge imaging technologies, and genomic analses to better understand copepod diversity. I use light microscopy, microCT, SEM, and histology to identify copepods, [describe new species](https://peerj.com/articles/6858/), and document their [morphology](https://peerj.com/articles/6858/#fig-5). I use next-generation sequencing (NGS) to understand how copepods are related to each other and how they have diversified. Much of the copepod tree of life remains largely unresolved, with  only [>4%](https://doi.org/10.7717/peerj.12034/table-2) of copepod species included in phylogenetic analyses. Despite this lack of resultion, current data suggest [copepods evolved to be parasitic at least 14 times](https://peerj.com/articles/12034/) which has resulted in [spectacular morphological evolution](https://doi.org/10.7717/peerj.12034/fig-1) and extreme host ranges. Taken together, this makes the Copepoda an ideal system to test hypothesis regarding the evolution of parastism, morphological evolution, and the evolutionary dynamics of host associations. My 3 year [NSF postdoc research fellowship](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010898) focuses on building the copepod tree of life by developing an AHE probe set for copepod phylogenomics.
+
+INSERT stickleback mictoCT IMAGE
+
+<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/Lernaea_fish_lateral_colored_website.png?raw=true" style="width:492px;height:345px;" <figcaption> align = "center" microCT of a Three Spined Sticklback with 2 Lernaea copepods embedded in it</figcaption>>
 
 ### Tapeworm Taxonomy and Systematics
 
