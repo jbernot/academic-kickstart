@@ -27,9 +27,10 @@ Copepods are a group of small aquatic crustaceans containing 14,000 species that
 
 I combine field work, traditional morphological identification, cutting edge imaging technologies, and genomic analses to better understand copepod diversity. I use light microscopy, microCT, SEM, and histology to identify copepods, [describe new species](https://peerj.com/articles/6858/), and document their [morphology](https://peerj.com/articles/6858/#fig-5). I use next-generation sequencing (NGS) to understand how copepods are related to each other and how they have diversified. Much of the copepod tree of life remains largely unresolved, with  only [>4%](https://doi.org/10.7717/peerj.12034/table-2) of copepod species included in phylogenetic analyses. Despite this lack of resultion, current data suggest [copepods evolved to be parasitic at least 14 times](https://peerj.com/articles/12034/) which has resulted in [spectacular morphological evolution](https://doi.org/10.7717/peerj.12034/fig-1) and extreme host ranges. Taken together, this makes the Copepoda an ideal system to test hypothesis regarding the evolution of parastism, morphological evolution, and the evolutionary dynamics of host associations. My 3 year [NSF postdoc research fellowship](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010898) focuses on building the copepod tree of life by developing an AHE probe set for copepod phylogenomics.
 
-INSERT stickleback mictoCT IMAGE
-
-<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/Lernaea_fish_lateral_colored_website.png?raw=true" style="width:492px;height:345px;" <figcaption> align = "center" microCT of a Three Spined Sticklback with 2 Lernaea copepods embedded in it</figcaption>>
+<figure>
+<img src="https://github.com/jbernot/academic-kickstart/blob/master/static/img/Lernaea_fish_lateral_colored_website.png?raw=true">
+<figcaption> microCT of three spined stickleback with 2 <i>Lernaea</i> copepods (red) embedded</figcaption>
+</figure>
 
 ### Tapeworm Taxonomy and Systematics
 
