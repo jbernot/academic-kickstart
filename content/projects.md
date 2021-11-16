@@ -18,8 +18,7 @@ header:
 
 Crustaceans are a group of arthropods that includes familiar animals like crabs, shrimp, and lobsters, as well as thousands of other species with extremely varied ways of life including ferocious mantis shrimp, lanky 12-foot wide Japanese spider crabs, miniscule sea monkeys (brine shrimp), shell-incased barnacles, giant deep-sea isopods, and many others. For centuries scientists have debated how these various animals evolved, and this largely remains a mystery today. By using large genomic and transcriptomic datasets and expanded taxon sampling I hope to better understand their evolution and resolve this large and important branch of the tree of life.
 
-<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/website_crustacea_tree.jpg?raw=true" style="width:200px;height:200px;">
-<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/crustacea_tree_blue.png?raw=true" style="width:200px;height:200px;">
+<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/website_crustacea_tree.jpg?raw=true">
 
 ### Copepod Diversity
 
@@ -43,4 +42,4 @@ Tapeworms are parasites that live in the intestines of vertebrates. They lack al
 
 ### Computational Biology
 
-I apply computational biology methods to answer biological questions. Often, these questions are related to the topics above, but I have also collaborated in a variety of other areas including human gene expression in cancer, mouse models of human disease, fish microbiome characterization, and hookworm developmental gene expression. My computational biology work has involved phylogenetics, phylogenomics, ortholog identification, microbiome analysis, transcriptome assembly, genome assembly, and differential gene expression analyses.
+I apply computational biology methods to answer biological questions. Often, these questions are related to the topics above, but I have also collaborated in a variety of other areas including human gene expression in cancer, mouse models of human disease, microbiome characterization, and hookworm developmental gene expression. My computational biology work has involved phylogenetics, ortholog identification, transcriptomics, differential gene expression analysis, microbiome analysis, and genome annotation.
