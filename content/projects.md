@@ -18,8 +18,8 @@ header:
 
 Crustaceans are a group of arthropods that includes familiar animals like crabs, shrimp, and lobsters, as well as thousands of other species with extremely varied ways of life including ferocious mantis shrimp, lanky 12-foot wide Japanese spider crabs, miniscule sea monkeys (brine shrimp), shell-incased barnacles, giant deep-sea isopods, and many others. For centuries scientists have debated how these various animals evolved, and this largely remains a mystery today. By using large genomic and transcriptomic datasets and expanded taxon sampling I hope to better understand their evolution and resolve this large and important branch of the tree of life.
 
+<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/website_crustacea_tree.jpg?raw=true" style="width:200px;height:200px;">
 <img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/crustacea_tree_blue.png?raw=true" style="width:200px;height:200px;">
-
 
 ### Copepod Diversity
 
