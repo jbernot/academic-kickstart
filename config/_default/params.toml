@@ -86,14 +86,14 @@ email = "jbernot@gwu.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "800 22nd Street NW SEH Suite 7000", city = "Washington", region = "DC", postcode = "20052", country = "United States", country_code = "US"}
+address = {street = "10th St. & Constitution Ave. NW", city = "Washington", region = "DC", postcode = "20560", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.900057", longitude = "-77.049022"}
+# coordinates = {latitude = "38.89129745", longitude = "-77.03006650"}
 
 # Directions for visitors to locate you.
-directions = "Enter SEH and take the elevators up to the 7th floor, exit the elevators to the right and enter SEH suite 7000. Ask for Jimmy Bernot at the front desk and you will be taken to the South Research Wing"
+# directions = "Enter SEH and take the elevators up to the 7th floor, exit the elevators to the right and enter SEH suite 7000. Ask for Jimmy Bernot at the front desk and you will be taken to the South Research Wing"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
