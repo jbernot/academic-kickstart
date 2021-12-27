@@ -1,13 +1,12 @@
 +++
 # A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Highlights"
+title = "Recent Highlights"
 subtitle = ""
 
 [content]
@@ -68,75 +67,75 @@ subtitle = ""
  css_class = ""
 +++
 
-### New [paper](https://peerj.com/articles/12034/) published on copepod phylogeny and evolution of parasitism
-August 18, 2021
+### [National Geographic Interview](https://www.nationalgeographic.com/animals/article/parasites-are-diverse-heres-why-they-matter) on Parasites
+Interviewed in article on the importance of parasites. October 7, 2021.
+[<img src="https://pbs.twimg.com/card_img/1474138456930467856/aDsJf9m6?format=jpg&name=small">](https://www.nationalgeographic.com/animals/article/parasites-are-diverse-heres-why-they-matter)
+
+#### New [paper](https://peerj.com/articles/12034/) published on copepod phylogeny and evolution of parasitism
 [<img src="https://dfzljdn9uc3pi.cloudfront.net/2021/12034/1/fig-1-2x.jpg">](https://peerj.com/articles/12034/)
 
-### [The Atlantic article on tongue-biter isopods](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
-Interviewed and quoted in article on tongue-biter parasitic isopods. July 14, 2021. [<img src="https://cdn.theatlantic.com/thumbor/bGEbRK5yDxekkpm3w12O40TvVH4=/0x0:2500x1406/1952x1098/media/img/mt/2021/07/2B1EF3D/original.jpg">](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
+#### [The Atlantic article on tongue-biter isopods](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
+Interviewed in article on tongue-biter parasitic isopods. July 14, 2021. [<img src="https://cdn.theatlantic.com/thumbor/bGEbRK5yDxekkpm3w12O40TvVH4=/0x0:2500x1406/1952x1098/media/img/mt/2021/07/2B1EF3D/original.jpg">](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
 
-### [WoRMS article “Ten remarkable new marine species from 2020”](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020)
+### Twitter thread on how science illustrations are made
+Videos and photos demonstrating the science illustration process. March 30, 2021.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s a thread on how I make scientific illustrations for describing new species of invertebrates <a href="https://twitter.com/hashtag/sciencetwitter?src=hash&amp;ref_src=twsrc%5Etfw">#sciencetwitter</a> <a href="https://twitter.com/hashtag/art?src=hash&amp;ref_src=twsrc%5Etfw">#art</a> <a href="https://twitter.com/hashtag/science?src=hash&amp;ref_src=twsrc%5Etfw">#science</a> <a href="https://twitter.com/hashtag/illustration?src=hash&amp;ref_src=twsrc%5Etfw">#illustration</a> <a href="https://twitter.com/hashtag/taxonomy?src=hash&amp;ref_src=twsrc%5Etfw">#taxonomy</a> <a href="https://twitter.com/hashtag/teaminvert?src=hash&amp;ref_src=twsrc%5Etfw">#teaminvert</a> <a href="https://t.co/vQwbZQD7xw">pic.twitter.com/vQwbZQD7xw</a></p>&mdash; Jimmy Bernot, PhD 🦐🪱🏳️‍🌈 (@JimmyBernot) <a href="https://twitter.com/JimmyBernot/status/1377067162741968897?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### [WoRMS article “Ten remarkable new marine species from 2020”](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020)
 Cowrote article for Taxonomists Appreciation Day to draw public attention and press coverage to taxonomic research. March 19, 2021.
-[<img src="https://www.marinespecies.org/images/layout/WoRMS_logo_neg_blue.png">](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020) 
 
-### [Skype A Scientist LIVE event](https://youtu.be/6-57CouBfMk)
+#### [Skype A Scientist LIVE event](https://youtu.be/6-57CouBfMk)
 Virtual live Q&A and introduction to marine plankton and parasites with >200 attendees. March 10, 2021.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6-57CouBfMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [Snopes article on parasitic isopods](https://www.snopes.com/fact-check/parasite-fish-tongue-mouth/)
+#### [Snopes article on parasitic isopods](https://www.snopes.com/fact-check/parasite-fish-tongue-mouth/)
 Interviewed and supplied photographs for Snopes article on cymothoid isopods and fish tongue replacement. March 5, 2021.
 
-### [7 Ocean Parasites Worth Celebrating on World Parasite Day](https://ocean.si.edu/ocean-life/7-ocean-parasites-worth-celebrating-world-parasite-day)
+#### [7 Ocean Parasites Worth Celebrating on World Parasite Day](https://ocean.si.edu/ocean-life/7-ocean-parasites-worth-celebrating-world-parasite-day)
 Cowrote article for Smithsonian Ocean Portal website. March 2, 2021.
-[<img src="https://ocean.si.edu/sites/default/files/styles/article_main_image/public/2021-03/sealamprey8741578394.jpg?itok=7KX_2NuK">](https://ocean.si.edu/ocean-life/7-ocean-parasites-worth-celebrating-world-parasite-day)
 
-### Smithsonian NMNH social media
-Social media takeover of NMNH channels for World Parasite Day. Wrote posts for 
-Smithsonian NMNH Twitter, Instagram, and Facebook.
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s <a href="https://twitter.com/hashtag/ParasiteWeek2021?src=hash&amp;ref_src=twsrc%5Etfw">#ParasiteWeek2021</a> and three of our experts—Jimmy Bernot, Anna Phillips, and Kelly Speer (L-R)—will be taking over our social media platforms to teach you about everything from their natural history to why their conservation (yes conservation!) matters. <a href="https://t.co/IjmW3dNnn1">pic.twitter.com/IjmW3dNnn1</a></p>&mdash; Smithsonian&#39;s NMNH (@NMNH) <a href="https://twitter.com/NMNH/status/1366410398178578437?ref_src=twsrc%5Etfw">March 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-### [Just the Zoo of Us](https://www.justthezooofus.com) Podcast Feature
+#### [Just the Zoo of Us](https://www.justthezooofus.com) Podcast Feature
 Copepod biology and adaptions. [Just the Zoo of Us](https://www.justthezooofus.com) episode 86 – an animal 
 diversity podcast. February 24, 2021
 <iframe src="https://open.spotify.com/embed/episode/7hBU047dc1Xyg6p6rkgdZY" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-### Cal. Academy of Sciences [Genomics Seminar](https://www.calacademy.org/virtual-genomic-social-hour)
+#### Cal. Academy of Sciences [Genomics Seminar](https://www.calacademy.org/virtual-genomic-social-hour)
 Invited speaker for Cal. Academy of Sciences [Genomics Social Hour](https://www.calacademy.org/virtual-genomic-social-hour) on Parasite and Host Genomics. Feb. 17, 2021. Talks available below on Youtube.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bAs27WGp-4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [Exolore](https://www.exolorepod.com/episodes) Podcast Feature
+#### [Exolore](https://www.exolorepod.com/episodes) Podcast Feature
 The World of Queer Worms. Podcast panel discussion on hermaphroditic life on [Exolore Podcast](https://www.exolorepod.com/episodes) episode 23, a podcast featuring scientists, historians, psychologists that discuss biological and sociological implications of sci-fi worlds. Feb. 11, 2021
 <iframe src="https://open.spotify.com/embed-podcast/episode/0yKH7kt3fh93RZpxlJF7SN" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-### IFLScience Article
+#### IFLScience Article
 Collaborated on pop-sci article with [IFLScience](https://www.iflscience.com/health-and-medicine/scientist-volunteers-to-be-parasitized-by-50-hookworms-for-vaccine-study/) on parasites and an experimental hookworm vaccine study. Feb. 2, 2021
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scientist Volunteers To Be Parasitized By 50 Hookworms For Vaccine Study<a href="https://t.co/ot3zCsDrmB">https://t.co/ot3zCsDrmB</a> <a href="https://t.co/Im8vwhkk2T">pic.twitter.com/Im8vwhkk2T</a></p>&mdash; IFLScience (@IFLScience) <a href="https://twitter.com/IFLScience/status/1356620030625144833?ref_src=twsrc%5Etfw">February 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Hookworm Vaccine & Challenge Trial Thread
+#### Hookworm Vaccine & Challenge Trial Thread
 Twitter thread on my experience volunteering to participate in an exerpimental hookworm vaccine challenge trial. Jan. 27, 2021
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Heres the story of how I volunteered to be infected with 50 parasitic worms (hookworm) for a year as part of a research study. Check out this thread &amp; follow me for more <a href="https://twitter.com/hashtag/parasite?src=hash&amp;ref_src=twsrc%5Etfw">#parasite</a> &amp; marine biology content [t]<a href="https://twitter.com/hashtag/ScienceTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#ScienceTwitter</a> <br>imgs: <a href="https://t.co/hH5YsfS0ay">https://t.co/hH5YsfS0ay</a> <a href="https://t.co/kVurE6BbTS">https://t.co/kVurE6BbTS</a> <a href="https://t.co/l75h5XcNfl">pic.twitter.com/l75h5XcNfl</a></p>&mdash; Jimmy Bernot PhD 🦐🪱🏳️‍🌈 (@JimmyBernot) <a href="https://twitter.com/JimmyBernot/status/1354443833388503043?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### [LGBTQ+ STEMCast](ttps://anchor.fm/lgbtqstemcast) Podcast Feature
+#### [LGBTQ+ STEMCast](ttps://anchor.fm/lgbtqstemcast) Podcast Feature
 Interviewed on [LGBTQ+ STEMCast](ttps://anchor.fm/lgbtqstemcast), a podcast featuring LGBTQ+ scientists. Jan. 4, 2021
 <iframe src="https://open.spotify.com/embed-podcast/episode/1Y2n1q8ZbMAwNHeeMjL5td" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-### Began [NSF Postdoc Fellowship](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010898)
+#### Began [NSF Postdoc Fellowship](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010898)
 Started new NSF Postdoc Fellowship at the Smithsonian National Museum of Natural History [Department of Invertebrate Zoology](https://naturalhistory.si.edu/research/invertebrate-zoology). Jan. 1, 2021
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to say I’m starting a <a href="https://twitter.com/NSF?ref_src=twsrc%5Etfw">@NSF</a> postdoc fellowship to continue my work on the <a href="https://twitter.com/hashtag/copepod?src=hash&amp;ref_src=twsrc%5Etfw">#copepod</a> tree of life! I’ll be based at the <a href="https://twitter.com/NMNH?ref_src=twsrc%5Etfw">@NMNH</a> with <a href="https://twitter.com/Annalida500?ref_src=twsrc%5Etfw">@Annalida500</a> &amp; <a href="https://twitter.com/InvertebratesDC?ref_src=twsrc%5Etfw">@InvertebratesDC</a> and will visit <a href="https://twitter.com/NHM_London?ref_src=twsrc%5Etfw">@NHM_London</a> and <a href="https://twitter.com/Senckenberg?ref_src=twsrc%5Etfw">@Senckenberg</a>! <a href="https://twitter.com/hashtag/NSFfunded?src=hash&amp;ref_src=twsrc%5Etfw">#NSFfunded</a> <a href="https://twitter.com/hashtag/PRFB?src=hash&amp;ref_src=twsrc%5Etfw">#PRFB</a> <a href="https://twitter.com/hashtag/copepodology?src=hash&amp;ref_src=twsrc%5Etfw">#copepodology</a> <a href="https://twitter.com/hashtag/Crustmas?src=hash&amp;ref_src=twsrc%5Etfw">#Crustmas</a> <a href="https://t.co/vTzF2PiPjh">https://t.co/vTzF2PiPjh</a> <a href="https://t.co/ylKfrKKb43">pic.twitter.com/ylKfrKKb43</a></p>&mdash; Jimmy Bernot PhD 🦐🐛🏳️‍🌈 (@JimmyBernot) <a href="https://twitter.com/JimmyBernot/status/1338504121549279240?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### [Blog Post](https://threadreaderapp.com/thread/1342215542757851145.html) on the Tantulocarida
+#### [Blog Post](https://threadreaderapp.com/thread/1342215542757851145.html) on the Tantulocarida
 Wrote blog post on one of the most amazing and enigmantic groups of crustaceans: the Tantulocarida. Dec. 24, 2020
 
-### Defended my Dissertation!
+#### Defended my Dissertation!
 Successfully defended my dissertation on Parasitic Copepod Evolution 🥳 Nov. 19, 2020 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I successfully defended my dissertation today! So happy to share my work on parasitic copepods and crustacean evolution with my mentors, collaborators, friends and family! Thank you all! <a href="https://twitter.com/AcademicChatter?ref_src=twsrc%5Etfw">@AcademicChatter</a> <a href="https://twitter.com/hashtag/science?src=hash&amp;ref_src=twsrc%5Etfw">#science</a> <a href="https://twitter.com/hashtag/ScienceTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#ScienceTwitter</a> <a href="https://twitter.com/hashtag/dissertation?src=hash&amp;ref_src=twsrc%5Etfw">#dissertation</a> <a href="https://twitter.com/hashtag/phd?src=hash&amp;ref_src=twsrc%5Etfw">#phd</a> <a href="https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw">#phdchat</a> <a href="https://t.co/qCVfD0mUb3">pic.twitter.com/qCVfD0mUb3</a></p>&mdash; Jimmy Bernot PhD 🦐🐛🏳️‍🌈 (@JimmyBernot) <a href="https://twitter.com/JimmyBernot/status/1329477963461615621?ref_src=twsrc%5Etfw">November 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Launched [World Association of Copepodologists Twitter](https://twitter.com/copepodology)
+#### Launched [World Association of Copepodologists Twitter](https://twitter.com/copepodology)
 Launched World Association of Copepodologists Twitter Account! We are now on Twitter [@copepodology](https://twitter.com/copepodology) Oct. 23, 2020
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you know that there are more than 13,000 copepod species in the world? <br><br>Stay tuned to know more about these charismatic animals!</p>&mdash; World Association of Copepodologists (@copepodology) <a href="https://twitter.com/copepodology/status/1319763955586400263?ref_src=twsrc%5Etfw">October 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### [WeRepStem Blog Post](https://werepstem.com/2020/07/03/profile-james-jimmy-bernot-ph-d-candidate-in-genomics-bioinformatics-nsf-postdoc-research-fellow-in-biological-collections/)
+#### [WeRepStem Blog Post](https://werepstem.com/2020/07/03/profile-james-jimmy-bernot-ph-d-candidate-in-genomics-bioinformatics-nsf-postdoc-research-fellow-in-biological-collections/)
 Wrote [blog post](https://werepstem.com/2020/07/03/profile-james-jimmy-bernot-ph-d-candidate-in-genomics-bioinformatics-nsf-postdoc-research-fellow-in-biological-collections/) for [WeRepSTEM](https://werepstem.com), a diversity in STEM blog. July 3, 2020
 
 

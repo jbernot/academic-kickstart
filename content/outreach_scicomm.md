@@ -18,6 +18,10 @@ header:
 
 <img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo2.jpg?raw=true">
 
+### [National Geographic Interview](https://www.nationalgeographic.com/animals/article/parasites-are-diverse-heres-why-they-matter) on Parasites
+Interviewed in article on the importance of parasites. October 7, 2021.
+[<img src="https://pbs.twimg.com/card_img/1474138456930467856/aDsJf9m6?format=jpg&name=small">](https://www.nationalgeographic.com/animals/article/parasites-are-diverse-heres-why-they-matter)
+
 #### [Exolore](https://www.exolorepod.com/episodes) Podcast Feature
 M Dwarf Planet: Biology. Podcast panel discussion
 featuring scientists discussing biology on alien worlds. [Exolore Podcast](https://www.exolorepod.com/episodes) episode 23, a podcast featuring scientists, historians, psychologists that discuss biological and sociological implications of sci-fi worlds. Aug. 27, 2021
@@ -27,22 +31,26 @@ featuring scientists discussing biology on alien worlds. [Exolore Podcast](https
 Article on tongue-biter parasitic isopods. July 14, 2021
 [<img src="https://cdn.theatlantic.com/thumbor/bGEbRK5yDxekkpm3w12O40TvVH4=/0x0:2500x1406/1952x1098/media/img/mt/2021/07/2B1EF3D/original.jpg">](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
 
+### Twitter thread on how science illustrations are made
+Videos and photos demonstrating the science illustration process. March 30, 2021.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s a thread on how I make scientific illustrations for describing new species of invertebrates <a href="https://twitter.com/hashtag/sciencetwitter?src=hash&amp;ref_src=twsrc%5Etfw">#sciencetwitter</a> <a href="https://twitter.com/hashtag/art?src=hash&amp;ref_src=twsrc%5Etfw">#art</a> <a href="https://twitter.com/hashtag/science?src=hash&amp;ref_src=twsrc%5Etfw">#science</a> <a href="https://twitter.com/hashtag/illustration?src=hash&amp;ref_src=twsrc%5Etfw">#illustration</a> <a href="https://twitter.com/hashtag/taxonomy?src=hash&amp;ref_src=twsrc%5Etfw">#taxonomy</a> <a href="https://twitter.com/hashtag/teaminvert?src=hash&amp;ref_src=twsrc%5Etfw">#teaminvert</a> <a href="https://t.co/vQwbZQD7xw">pic.twitter.com/vQwbZQD7xw</a></p>&mdash; Jimmy Bernot, PhD 🦐🪱🏳️‍🌈 (@JimmyBernot) <a href="https://twitter.com/JimmyBernot/status/1377067162741968897?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### [Planet B162](https://planetb612.fm) microscopy podcast feature
 <iframe src="https://open.spotify.com/embed/episode/2KGh4IkjiRFbOIYrKFwbXz" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### [Sharkpedia](https://anchor.fm/sharkpediapod/episodes/Shark-Parasites-with-Dr--Jimmy-Bernot-e13emju) podcast feature
 <iframe src="https://open.spotify.com/embed/episode/6YAwzxK1jmt3tjqZmLTzyE" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-### Interviewed in [Slate](https://slate.com/technology/2021/04/covid-19-challenge-trials-malaria-hookworms.html) and [Undark](https://undark.org/2021/04/07/getting-sick-for-medical-research/) 
+### Interviewed in [Slate](https://slate.com/technology/2021/04/covid-19-challenge-trials-malaria-hookworms.html) and [Undark](https://undark.org/2021/04/07/getting-sick-for-medical-research/)
 Article on challenge trials in medical research. April 7, 2021
 
-### Cowrote [WoRMS](https://www.marinespecies.org/about.php) article [“Ten remarkable new marine species from 2020”](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020) 
+### Cowrote [WoRMS](https://www.marinespecies.org/about.php) article [“Ten remarkable new marine species from 2020”](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020)
 Celebrating Taxonomists Appreciation Day to draw public attention and press coverage to taxonomic research. Created [Youtube](https://www.youtube.com/watch?v=mwFdbec5k8s) video. March 19, 2021.
 
 ### Created Youtube video for WoRMS Ten remarkable new marine species from 2020
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/mwFdbec5k8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Skype A Scientist LIVE event 
+### Skype A Scientist LIVE event
 Virtual live Q&A and introduction to marine plankton and parasites with >200 attendees. March 10, 2021.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6-57CouBfMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD Genomics & Bioinformatics
     institution: George Washington University
-    year: 2015-2020
+    year: 2020
   - course: MS Ecology & Evolutionary Biology
     institution: University of Connecticut
     year: 2015
